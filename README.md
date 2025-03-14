@@ -48,5 +48,5 @@ This tool is for informational purposes only and should not be used as a substit
 ## 📞 Contact
 For queries or collaboration, reach out via:
 - **GitHub:** [Mayurx75](https://github.com/Mayurx75)
-- **Email:** mayurff752gmail.com 
+- **Email:** mayurff75@gmail.com 
 
